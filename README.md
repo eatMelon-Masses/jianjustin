@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 ## 如何联系我
 
-[QQ](https://img.shields.io/badge/QQ-717266257-blue)
+[![](https://img.shields.io/badge/QQ-717266257-blue)]()
 
 [Email](https://img.shields.io/badge/Email-jerry.jian.chen%40outlook.com-lightgrey)
