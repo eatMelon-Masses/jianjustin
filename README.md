@@ -1,19 +1,16 @@
-### Hi there 👋
+### 哈喽 👋 ，我是极北之地
 
-<!--
-**jianjustin/jianjustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 关于我
 
-Here are some ideas to get you started:
+我的真名是坚锐，也可以叫我jerry啦，坐标：中国成都。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+目前是大四学生，也算是准软件开发工程师，主要擅长Java、.NET、中间件等后端技术。
+
+## 2021年想完成的事
+
+- [ ] 学习了解Go语言
+- [ ] 尝试落地一个idea并完成一个小APP
+- [ ] 好好毕业～
 
 
 ## 如何联系我
