@@ -12,6 +12,9 @@
 - [ ] 尝试落地一个idea并完成一个小APP
 - [ ] 好好毕业～
 
+## 快捷项目入口
+
+* [React学习项目](https://github.com/jianjustin/react-app)
 
 ## 如何联系我
 
